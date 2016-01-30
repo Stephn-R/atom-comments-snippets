@@ -10,7 +10,10 @@
       "snippets",
       "block"
   ],
-  "repository": "https://github.com/atom/atom-section-comment-snippets",
+  "repository": "https://github.com/Stephn-R/atom-section-comments-snippets",
+  "bugs": {
+    "url": "https://github.com/Stephn-R/atom-section-comments-snippets/issues"
+  },
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
