@@ -1,14 +1,14 @@
 {
   "name": "atom-section-comment-snippets",
   "main": "./lib/atom-section-comment-snippets",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Several snippets to create fancy Comments",
   "keywords": [
-      "comment",
-      "comments",
-      "snippet",
-      "snippets",
-      "block"
+    "comment",
+    "comments",
+    "snippet",
+    "snippets",
+    "block"
   ],
   "repository": "https://github.com/Stephn-R/atom-section-comments-snippets",
   "bugs": {
@@ -18,6 +18,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
