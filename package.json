@@ -1,5 +1,5 @@
 {
-  "name": "Section Comment Snippets",
+  "name": "section-comment-snippets",
   "main": "./lib/atom-section-comment-snippets",
   "version": "2.0.0",
   "description": "Several snippets to create fancy Comments",
