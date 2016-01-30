@@ -1,9 +1,14 @@
 {
   "name": "atom-comment-snippets",
   "main": "./lib/atom-comment-snippets",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "1.0.0",
+  "description": "Several snippets to create fancy Comments",
   "keywords": [
+      "comment",
+      "comments",
+      "snippet",
+      "snippets",
+      "block"
   ],
   "activationCommands": {
     "atom-workspace": "atom-comment-snippets:toggle"
