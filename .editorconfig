@@ -1,0 +1,21 @@
+root = true
+
+# Forces all files to end in new-line
+[*]
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+charset = utf-8
+
+# 4 space indentation
+[*.py]
+indent_style = space
+indent_size = 4
+
+[*.{html, htm, jsp}]
+indent_style = tab
+indent_size = 4
+
+[*.{js,sass,cson,json}]
+indent_style = space
+indent_size = 2
