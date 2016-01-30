@@ -1,6 +1,6 @@
 {
-  "name": "atom-comment-snippets",
-  "main": "./lib/atom-comment-snippets",
+  "name": "atom-section-comment-snippets",
+  "main": "./lib/atom-section-comment-snippets",
   "version": "1.0.0",
   "description": "Several snippets to create fancy Comments",
   "keywords": [
@@ -10,10 +10,7 @@
       "snippets",
       "block"
   ],
-  "activationCommands": {
-    "atom-workspace": "atom-comment-snippets:toggle"
-  },
-  "repository": "https://github.com/atom/atom-comment-snippets",
+  "repository": "https://github.com/atom/atom-section-comment-snippets",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

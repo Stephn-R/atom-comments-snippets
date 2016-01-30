@@ -1,0 +1,34 @@
+######################## HTML ########################
+'.text.html.basic':
+  'Comment - HTML':
+    'prefix': 'comm-html',
+    'body': """
+    <!-- ${1:html comment} -->
+    """
+  'Comment - HTML Section':
+    'prefix': 'comm-html-section',
+    'body': """
+    <!--=============================================>>>>>
+    = ${1:Section comment block} =
+    ===============================================>>>>-->
+
+    $2
+
+    <!--= End of ${1:Section comment block} =*/-->
+    <!--=============================================<<<<<-->
+    """
+  'Comment - HTML Header':
+    'prefix': 'comm-html-header',
+    'body': """
+    <!--=============================================>>>>>
+    = ${1:Section comment block} =
+    ===============================================>>>>-->
+    $2
+    """
+  'Comment - HTML Footer':
+    'prefix': 'comm-html-footer',
+    'body': """
+    <!--= End of ${1:Section comment block} =*/-->
+    <!--=============================================<<<<<-->
+    $2
+    """

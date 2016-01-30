@@ -1,3 +1,3 @@
-## 0.1.0 - First Release
-* Every feature added
-* Every bug fixed
+## 1.0.0 - First Release
+* Section Comments on All file types
+* Section Comments capability on `.text.html.basic` support
