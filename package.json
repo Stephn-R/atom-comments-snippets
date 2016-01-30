@@ -1,5 +1,5 @@
 {
-  "name": "atom-section-comment-snippets",
+  "name": "Section Comment Snippets",
   "main": "./lib/atom-section-comment-snippets",
   "version": "2.0.0",
   "description": "Several snippets to create fancy Comments",
@@ -8,7 +8,8 @@
     "comments",
     "snippet",
     "snippets",
-    "block"
+    "block",
+    "section"
   ],
   "repository": "https://github.com/Stephn-R/atom-section-comments-snippets",
   "bugs": {
