@@ -1,3 +1,7 @@
+## 2.2.1
+
+- moved comment-all.cson contents to comment-js.cson to avoid using * to apply snippets
+
 ## 2.1.1
 
 - Patched a small bug with sections not closing
